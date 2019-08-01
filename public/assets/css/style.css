@@ -9,3 +9,25 @@ body {
 .input-row { 
     text-align: center
 }
+
+.title {
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+#burg {
+    height: 50px;
+    width: 300px;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 15px 25px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+  }
