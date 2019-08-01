@@ -1,7 +1,9 @@
 .body {
     background-color:#f3c9a3;
   }
-
+.mypic {
+    height:300px;
+}
 .head {
     text-align: center;
 }
