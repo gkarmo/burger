@@ -1,5 +1,5 @@
-body {
-    background-color: coral;
+.body {
+    background-color:#f3c9a3;
   }
 
 .head {
@@ -21,7 +21,7 @@ body {
 
 .button1 {
     display: inline-block;
-    padding: 15px 25px;
+    padding: 5px 13px;
     cursor: pointer;
     text-align: center;
     text-decoration: none;
